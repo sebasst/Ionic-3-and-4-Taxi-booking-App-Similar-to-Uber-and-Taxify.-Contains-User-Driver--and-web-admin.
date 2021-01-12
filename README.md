@@ -1,30 +1,5 @@
 
-## This is just a sample, Please purchase the full source code.
-
-## Full Support For Android and IOS.
-
-### This includes passenger app, driver app and web admin dashboard.
-
-
-### :computer: Visit [Here](https://market.ionicframework.com/starters/uber-style-taxi-booking-app-built-with-ionic-3-upgradeable-to-4-with-firebase-realtime#description) to learn more.
-
-### :tv: [Watch Demo](https://www.youtube.com/watch?v=zBqUA4ffvaM)
-
-### Full [DEMO](https://drive.google.com/drive/u/1/folders/1vGgvEFDAV1ECAs07xLLJvXmYG9PoLNyh)
-
-### :email: Email playstudio86@gmail.com for more inquiries.
-
-### Skype chndth@live.com
-
-### :phone: +23407089930308
-
-
-#### => This project is upgradeable to ionic 4
-
-
-### Kick Off Your Business. Without Much Delay. And Benefit from regular updates.
-
-
+## Sistema de gestión de carrearas de taxis
 
 ## Features;
 
